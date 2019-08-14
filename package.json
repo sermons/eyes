@@ -1,18 +1,17 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@sermons/eyes",
+  "repository": "sermons/eyes",
+  "description": "Luke 10:17-24 What These Eyes Have Seen",
   "keywords": [
     "slides",
-    "lectures",
-    "talks",
-    "ppt"
+    "sermon",
+    "Luke"
   ],
   "version": "1.7.2",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "eyes.seanho.com",
+    "cname": "eyes.seanho.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -23,14 +22,14 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "Pacific Grace MB Church",
+        "city": "South Vancouver",
+        "date": "2019-08-18",
         "duration": 0
       }
     ],
     "slides": [
-      "slides/sample.md"
+      "slides/slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0",
     "mathjax": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js",

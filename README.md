@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# What These Eyes Have Seen
+## Luke 10:17-24
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel?type=dev)
+[![Build status](https://travis-ci.org/sermons/eyes.svg)](https://travis-ci.org/sermons/eyes)
+[![Node deps](https://david-dm.org/sermons/eyes.svg)](https://david-dm.org/sermons/eyes)
+[![Node devDeps](https://david-dm.org/sermons/eyes/dev-status.svg)](https://david-dm.org/sermons/eyes?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
