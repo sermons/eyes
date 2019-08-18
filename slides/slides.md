@@ -1,4 +1,5 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> id="title" -->
+
 # What These Eyes Have Seen
 ## Luke 10:17-24
 
