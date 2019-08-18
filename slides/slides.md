@@ -110,6 +110,7 @@ and to hear what you hear, and did not hear it.”
 >>>
 
 ---
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 The seventy-two returned with **joy**, saying, <br>
 “Lord, even the **demons** are subject to **us** <br>
 in **your** name!” 
@@ -132,6 +133,7 @@ in **your** name!”
     + **citizens** of heaven
 
 ---
+<!-- .slide: <%= bg("unsplash-in9-n0JwgZ0-lightning.jpg") %> -->
 And he said to them,  <br>
 “I saw Satan **fall** like lightning from heaven. 
 
@@ -146,6 +148,7 @@ And he said to them,  <br>
   + demons **tremble** before Him:
 
 ---
+<!-- .slide: <%= bg("Bida-Jesus_expels_the_merchants.jpg") %> -->
 When he **saw** Jesus, he **cried out** and fell down <br>
 before him and said with a loud voice, 
 
@@ -165,6 +168,7 @@ I beg you, do not **torment** me.”
 ## outline: 1B
 
 ---
+<!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
 Behold, I have **given** you authority  <br>
 to **tread** on **serpents** and scorpions,  <br>
 and over all the power of the enemy,  <br>
@@ -179,6 +183,7 @@ and nothing shall hurt you.
   + **curse** on Satan/serpent in Gen 3:
 
 ---
+<!-- .slide: <%= bg("unsplash-09AhDCedXF8-cross.jpg") %> -->
 I will put **enmity** between you and the woman, <br>
 and between your offspring and her **offspring**;
 
@@ -192,6 +197,7 @@ and you shall bruise his **heel**.
   + **head**: triumph over Satan
 
 ---
+<!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
 Behold, I have given you authority  <br>
 to tread on serpents and scorpions,  <br>
 and over all the power of the **enemy**,  <br>
@@ -211,6 +217,7 @@ and nothing shall **hurt** you.
   + man named **Simon** thought so, in Ac8:
 
 ---
+<!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 Now when **Simon** saw that the **Spirit** was given <br>
 through the **laying on** of the apostles' hands, <br>
 he offered them **money**,
@@ -233,6 +240,7 @@ saying, “Give me this **power** also ..."
 ## outline: 1C
 
 ---
+<!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
 Nevertheless, do **not** rejoice in this,  <br>
 that the spirits are **subject** to you,  <br>
 but rejoice that your **names** <br>
@@ -248,10 +256,8 @@ are written in **heaven**.”
   + city **register**: citizenship
   + **guest list** for wedding of the Lamb
 
-______
-+ woe if do not preach gospel
-
 ---
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
 So you also, when you have **done** <br>
 all that you were **commanded**, say, 
 
@@ -267,6 +273,7 @@ we have only done what was our **duty**.’
 + simply our **duty** as His **servants**
 
 ---
+<!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
 For if I **preach** the gospel, <br>
 I have nothing to **boast** of, <br>
 for I am under **compulsion**; <br>
@@ -292,6 +299,7 @@ I have a **stewardship** entrusted to me.
 ## outline: 2A
 
 ---
+<!-- .slide: <%= bg("") %> -->
 In that same hour he **rejoiced** <br>
 in the **Holy Spirit** and said,
 
