@@ -234,7 +234,7 @@ and nothing shall **hurt** you.
 <!-- .slide: <%= bg("unsplash-iQWvVYMtv1k-hands.jpg") %> -->
 Now when **Simon** saw that the **Spirit** was given <br>
 through the **laying on** of the apostles' hands, <br>
-he offered them **money**,
+he offered them **money**, <br>
 [19](# "ref")
 saying, “Give me this **power** also ..."
 
