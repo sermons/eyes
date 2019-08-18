@@ -9,7 +9,8 @@
 # Q0
 
 ---
-After this the Lord appointed **seventy-two** others <br>
+After this the Lord appointed <br>
+**seventy-two** others <br>
 and sent them on **ahead of him**, two by two, 
 
 into every **town** and place <br>
@@ -169,6 +170,8 @@ and nothing shall **hurt** you.
 + all the power of the **enemy** is nullified
 + *"hurt"*: wrong us, **injustice**
   + bc our Judge **justifies** us through faith
++ this is **awesome**, right?
+  + nope, there's sth even **better**:
 
 ---
 Nevertheless, do **not** rejoice in this,  <br>
@@ -180,9 +183,11 @@ are written in **heaven**.”
 
 >>>
 + not a **power** that we **own**
-+ don't focus on **destroying** the bad guys
++ don't focus on **destroying** evil
 + focus on Christ's **salvation**
 + humbly remember we have been **forgiven**
++ do I **rejoice** that my name is written in heaven?
+  + or take it for **granted**?
 
 ---
 In that same hour he **rejoiced** <br>
@@ -221,6 +226,7 @@ yes, Father, for such was your gracious **will**.
 + **hidden** / **revealed**: sight
 + **wise** / **understanding**: insight, aptitude
 + **little children**: babies, dependent
++ **will**: became deemed good before You
 
 ---
 
