@@ -95,7 +95,7 @@ and to hear what you hear, and did not hear it.”
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Luke 10:17-24
 1. Authority
-  1. Power of the Father [(v17-18)](# "ref")
+  1. Power of the Father [(v18)](# "ref")
   2. Given through the Son [(v19)](# "ref")
   3. Blessing the Children [(v20)](# "ref")
 2. Insight
@@ -124,7 +124,7 @@ And he said to them,  <br>
 [Luke 10:18 (ESV)](# "ref")
 
 >>>
-+ has rebelled since the **beginning**
++ has been sinning since the **beginning** (1Jn3:8)
 + impf aspect: during **process** / progression
 + Christ was **there** when Satan fell
   + Father's **authority** over Satan/demons
@@ -189,6 +189,7 @@ are written in **heaven**.”
 + focus on Christ's **salvation**
 + humbly remember we have been **forgiven**
 + written in **book of life**
+  + city **register**: citizenship
   + **guest list** for wedding of the Lamb
 + do I **rejoice** that my name is written in heaven?
   + or take it for **granted**?
@@ -247,6 +248,7 @@ yes, Father, for such was your gracious **will**.
 + **wise** / **understanding**: insight, aptitude
 + **little children**: babies, dependent
 + **will**: became deemed good before You
+  + NIV: were **pleased** to do
 
 ---
 Has not God made **foolish** <br>
