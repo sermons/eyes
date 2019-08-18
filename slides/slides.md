@@ -11,7 +11,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Q0
+# Has **serving God** made me **proud**?
 
 ---
 After this the Lord appointed <br>
