@@ -211,7 +211,7 @@ and you shall bruise his **heel**.
   + **head**: triumph over Satan
 
 ---
-<!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
+<!-- .slide: <%= bg("pexels-16013-edson-light_road.jpg") %> -->
 Behold, I have given you authority  <br>
 to tread on serpents and scorpions,  <br>
 and over all the power of the **enemy**,  <br>
@@ -276,6 +276,7 @@ are written in **heaven**.”
 + written in **book of life**
   + city **register**: citizenship
   + **guest list** for wedding of the Lamb
++ **why** obey God?
 
 ---
 <!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> -->
@@ -288,10 +289,9 @@ we have only done what was our **duty**.’
 [Luke 17:10 (ESV)](# "ref")
 
 >>>
-+ **why** obey God?
++ simply our **duty** as His **servants**
 + not to gain **power** / recognition for ourselves
   + "look at how **holy** I am"
-+ simply our **duty** as His **servants**
 
 ---
 <!-- .slide: <%= bg("unsplash-p90szoOBYgk-bible_standing.jpg") %> -->
@@ -327,7 +327,7 @@ I have a **stewardship** entrusted to me.
   + C. Blessing His Witnesses [(v23-24)](# "ref")
 
 ---
-<!-- .slide: <%= bg("") %> -->
+<!-- .slide: <%= bg("unsplash--wT0iS-TSZM-Anterne_cross.jpg") %> -->
 In that same hour he **rejoiced** <br>
 in the **Holy Spirit** and said,
 
@@ -346,6 +346,7 @@ in the **Holy Spirit** and said,
   + NIV: were **pleased** to do
 
 ---
+<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 “I thank you, Father, Lord of heaven and earth, <br>
 that you have **hidden** these things <br>
 from the **wise** and understanding 
@@ -357,6 +358,7 @@ from the **wise** and understanding
 + **wise** / **understanding**: insight, aptitude
 
 ---
+<!-- .slide: <%= bg("unsplash-ghbepAO7BCs-vancouver_street.jpg") %> -->
 Has not God made **foolish** <br>
 the **wisdom** of the world? 
 
@@ -375,6 +377,7 @@ of what we preach to save those who **believe**.
 + Christ **crucified**: power + wisdom of God
 
 ---
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
 “I thank you, Father, Lord of heaven and earth, <br>
 that you have hidden these things <br>
 from the wise and understanding <br>
@@ -387,6 +390,7 @@ and **revealed** them to **little children**
 + Jesus sent 72 out at start of this chapter:
 
 ---
+<!-- .slide: <%= bg("pixabay-19082-lamb.jpg") %> -->
 Go your way; behold, I am **sending** you out <br>
 as **lambs** in the midst of **wolves**
 
@@ -411,6 +415,7 @@ as **lambs** in the midst of **wolves**
   + C. Blessing His Witnesses [(v23-24)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 All things have been **handed over** to me <br>
 by my Father,
 
@@ -435,6 +440,7 @@ to reveal him.”
 + Jesus told us what eternal life is:
 
 ---
+<!-- .slide: <%= bg("unsplash-WJkc3xZjSXw-trees_overhead.jpg") %> -->
 And this is **eternal life**: <br>
 that they know you, the **only true God**, <br>
 and **Jesus Christ** whom you have sent.
@@ -457,6 +463,7 @@ and **Jesus Christ** whom you have sent.
   + C. **Blessing His Witnesses** [(v23-24)](# "ref")
 
 ---
+<!-- .slide: <%= bg("TobiasD-eye.jpg") %> -->
 Then turning to the **disciples** <br>
 he said privately,  <br>
 “Blessed are the **eyes** that see what you **see**!  <br>
@@ -475,6 +482,7 @@ and to **hear** what you hear, and did not hear it.”
   + revealed through **Christ** the Son
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 That which was from the **beginning**, <br>
 which we have **heard**, <br>
 which we have **seen** with our eyes, <br>
