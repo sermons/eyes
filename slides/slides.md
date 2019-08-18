@@ -311,24 +311,13 @@ in the **Holy Spirit** and said,
 ---
 “I thank you, Father, Lord of heaven and earth, <br>
 that you have **hidden** these things <br>
-from the **wise** and understanding <br>
-and **revealed** them to **little children**
+from the **wise** and understanding 
 
 [Luke 10:21 (ESV)](# "ref")
 
 >>>
 + **hidden** / **revealed**: sight
 + **wise** / **understanding**: insight, aptitude
-+ **little children**: babies, dependent
-
----
-Go your way; behold, I am **sending** you out <br>
-as **lambs** in the midst of **wolves**
-
-[Luke 10:3 (ESV)](# "ref")
-
->>>
-+ as **babies**: unequipped except for grace of God
 
 ---
 Has not God made **foolish** <br>
@@ -344,7 +333,35 @@ of what we preach to save those who **believe**.
 [1 Corinthians 1:20-21 (ESV)](# "ref")
 
 >>>
++ Jews look for signs of **power** / authority
++ Greeks look for **wisdom** / education
++ Christ **crucified**: power + wisdom of God
 
+---
+“I thank you, Father, Lord of heaven and earth, <br>
+that you have hidden these things <br>
+from the wise and understanding <br>
+and **revealed** them to **little children**
+
+[Luke 10:21 (ESV)](# "ref")
+
+>>>
++ nursing **babies**: dependent, incapable, trusting
++ Jesus sent 72 out at start of this chapter:
+
+---
+Go your way; behold, I am **sending** you out <br>
+as **lambs** in the midst of **wolves**
+
+[Luke 10:3 (ESV)](# "ref")
+
+>>>
++ just proclaiming, "**kingdom of God** is near"
+  + sure to encounter **opposition** (wolves)
++ no **wallet**, no extra supplies
+  + unequipped except for **grace** of God
+  + as lambs, as **babies**
++ reliant on Father's **providence**
 
 ---
 ## outline: 2B
@@ -369,6 +386,21 @@ to reveal him.”
   + not **discovered** by effort / wisdom
   + but **revealed** by grace
 + *"chooses"*: **will**, agency, free-will
++ eternal **life** is not halos + wings
+  + all-you-can-eat **ice cream**
++ Jesus told us what eternal life is:
+
+---
+And this is **eternal life**: <br>
+that they know you, the **only true God**, <br>
+and **Jesus Christ** whom you have sent.
+
+[John 17:3 (ESV)](# "ref")
+
+>>>
++ to **know** + be known: **relationship**
++ ultimate **authority** + **wisdom**
++ revealed in **Christ**
 
 ---
 ## outline: 2C
