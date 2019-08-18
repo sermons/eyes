@@ -142,6 +142,23 @@ And he said to them,  <br>
 + Christ was **there** when Satan fell
   + Father's **authority** over Satan/demons
 + so **of course** Jesus' name has authority
+  + demons **tremble** before Him:
+
+---
+When he **saw** Jesus, he **cried out** and fell down <br>
+before him and said with a loud voice, 
+
+“What have **you** to do with **me**, <br>
+Jesus, Son of the **Most High God**? <br>
+I beg you, do not **torment** me.”
+
+[Luke 8:28 (ESV)](# "ref")
+
+>>>
++ Most High: ultimate **authority**
+  + Jesus as the Son **inherits** auth
++ doesn't want any **dealings** with Him
++ fears **torment**
 
 ---
 ## outline: 1B
@@ -232,7 +249,6 @@ are written in **heaven**.”
 
 ______
 + woe if do not preach gospel
-+ godliness means to gain 1 Tim
 
 ---
 So you also, when you have **done** <br>
@@ -248,6 +264,20 @@ we have only done what was our **duty**.’
 + not to gain **power** / recognition for ourselves
   + "look at how **holy** I am"
 + simply our **duty** as His **servants**
+
+---
+For if I **preach** the gospel, <br>
+I have nothing to **boast** of, <br>
+for I am under **compulsion**; <br>
+for **woe** is me if I do not preach the gospel. 
+
+[17](# "ref")
+For if I do this **voluntarily**, <br>
+I have a **reward**; <br>
+but if **against** my will, <br>
+I have a **stewardship** entrusted to me.
+
+[I Corinthians 9:16-17 (NASB)](# "ref")
 
 ---
 <!-- .slide: data-background="white" -->
