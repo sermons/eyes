@@ -94,9 +94,14 @@ and to hear what you hear, and did not hear it.”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Luke 10:17-24
-1. [(v17-20)](# "ref")
-1. [(v21-22)](# "ref")
-1. [(v23-24)](# "ref")
+1. Authority
+  1. Power of the Father [(v17-18)](# "ref")
+  2. Given through the Son [(v19)](# "ref")
+  3. Blessing the Children [(v20)](# "ref")
+2. Insight
+  1. Wisdom of the Father [(v21)](# "ref")
+  2. Revealed by the Son [(v22)](# "ref")
+  3. Blessing the Witnesses [(v23-24)](# "ref")
 
 >>>
 
@@ -136,7 +141,8 @@ and nothing shall hurt you.
 >>>
 + authority **given**, not innate
 + tread on serpent: not killing snakes
-  + but **curse** on Satan/serpent in Gen 3:
+  + represents the **power** of the enemy
+  + **curse** on Satan/serpent in Gen 3:
 
 ---
 I will put **enmity** between you and the woman, <br>
