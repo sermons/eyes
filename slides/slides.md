@@ -94,12 +94,12 @@ and to hear what you hear, and did not hear it.”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Luke 10:17-24
-1. Authority of the Father [(v18)](# "ref")
-  A. Given Through the Son [(v19)](# "ref")
-  B. Redeeming Us [(v20)](# "ref")
-2. Wisdom of the Father [(v21)](# "ref")
-  A. Revealed by the Son [(v22)](# "ref")
-  B. Blessing Us [(v23-24)](# "ref")
+1. A. Authority of the Father [(v18)](# "ref")
+  + B. Given Through the Son [(v19)](# "ref")
+  + C. Redeeming His Children [(v20)](# "ref")
+2. A. Wisdom of the Father [(v21)](# "ref")
+  + B. Revealed by the Son [(v22)](# "ref")
+  + C. Blessing His Witnesses [(v23-24)](# "ref")
 
 >>>
 
