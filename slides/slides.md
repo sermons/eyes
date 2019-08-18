@@ -94,14 +94,12 @@ and to hear what you hear, and did not hear it.”
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
 ## Luke 10:17-24
-1. Authority
-  1. Power of the Father [(v18)](# "ref")
-  2. Given through the Son [(v19)](# "ref")
-  3. Blessing the Children [(v20)](# "ref")
-2. Insight
-  1. Wisdom of the Father [(v21)](# "ref")
-  2. Revealed by the Son [(v22)](# "ref")
-  3. Blessing the Witnesses [(v23-24)](# "ref")
+1. Authority of the Father [(v18)](# "ref")
+  A. Given Through the Son [(v19)](# "ref")
+  B. Redeeming Us [(v20)](# "ref")
+2. Wisdom of the Father [(v21)](# "ref")
+  A. Revealed by the Son [(v22)](# "ref")
+  B. Blessing Us [(v23-24)](# "ref")
 
 >>>
 
@@ -114,8 +112,13 @@ in **your** name!”
 
 >>>
 + 1: amazement at power of **demons**
-+ 2: **our** power, authority over them
-+ 3: by invoking **Christ's** name
+  + 2: **our** power, authority over them
+  + 3: by invoking **Christ's** name
++ turn the **focus** around:
+  + **God** has all the authority
+  + **Christ** grants us power over Satan
+  + **we** are but helpless **babies**
+    + **citizens** of heaven
 
 ---
 And he said to them,  <br>
