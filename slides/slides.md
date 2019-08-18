@@ -17,3 +17,13 @@
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+
+>>>
++ 17 even demons submit
++ 18 was seeing Satan fall
++ 19 give you authority to tread on snakes
++ 20 rejoice names written in heaven
++ 21 Father's good pleasure
++ 22 reveal who Father is
++ 23 blessed are eyes
++ 24 prophets + kings longed
