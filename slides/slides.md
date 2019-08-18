@@ -99,14 +99,6 @@ and to hear what you hear, and did not hear it.”
 1. [(v23-24)](# "ref")
 
 >>>
-+ 17 even demons submit
-+ 18 was seeing Satan fall
-+ 19 give you authority to tread on snakes
-+ 20 rejoice names written in heaven
-+ 21 Father's good pleasure
-+ 22 reveal who Father is
-+ 23 blessed are eyes
-+ 24 prophets + kings longed
 
 ---
 The seventy-two returned with **joy**, saying, <br>
@@ -190,6 +182,8 @@ are written in **heaven**.”
 + don't focus on **destroying** evil
 + focus on Christ's **salvation**
 + humbly remember we have been **forgiven**
++ written in **book of life**
+  + **guest list** for wedding of the Lamb
 + do I **rejoice** that my name is written in heaven?
   + or take it for **granted**?
 
@@ -249,11 +243,20 @@ yes, Father, for such was your gracious **will**.
 + **will**: became deemed good before You
 
 ---
+Has not God made **foolish** <br>
+the **wisdom** of the world? 
 
-[1 Corinthians 1 (ESV)](# "ref")
+[21](# "ref")
+For since, in the wisdom of **God**, <br>
+the world did **not know** God through wisdom, 
+
+it pleased God through the **folly** <br>
+of what we preach to save those who **believe**.
+
+[1 Corinthians 1:20-21 (ESV)](# "ref")
 
 >>>
-+ wisdom of the world
+
 
 ---
 Go your way; behold, I am **sending** you out <br>
@@ -296,6 +299,12 @@ desired to **see** what you see, and did not see it,  <br>
 and to **hear** what you hear, and did not hear it.”
 
 [Luke 10:23-24 (ESV)](# "ref")
+
+>>>
++ blessed not bc our **eyes** are special
++ but bc of what they've **seen**:
+  + glory of God the **Father**
+  + revealed through **Christ** the Son
 
 ---
 That which was from the **beginning**, <br>
