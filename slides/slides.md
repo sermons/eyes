@@ -93,6 +93,10 @@ and to hear what you hear, and did not hear it.”
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+## Luke 10:17-24
+1. [(v17-20)](# "ref")
+1. [(v21-22)](# "ref")
+1. [(v23-24)](# "ref")
 
 >>>
 + 17 even demons submit
@@ -190,6 +194,22 @@ are written in **heaven**.”
   + or take it for **granted**?
 
 ---
+Now when **Simon** saw that the **Spirit** was given <br>
+through the **laying on** of the apostles' hands, <br>
+he offered them **money**,
+[19](# "ref")
+saying, “Give me this **power** also ..."
+
+[Acts 8:18-19 (ESV)](# "ref")
+
+>>>
++ self-proclaimed **Great One**
+  + wanted **power**, influence
+  + "magic hands"
++ woe if do not preach gospel
++ godliness means to gain 1 Tim
+
+---
 In that same hour he **rejoiced** <br>
 in the **Holy Spirit** and said,
 
@@ -277,11 +297,19 @@ and to **hear** what you hear, and did not hear it.”
 
 [Luke 10:23-24 (ESV)](# "ref")
 
+---
+That which was from the **beginning**, <br>
+which we have **heard**, <br>
+which we have **seen** with our eyes, <br>
+
+which we **looked** upon <br>
+and have **touched** with our hands, <br>
+concerning the **word of life**
+
+[I John 1:1 (ESV)](# "ref")
+
 >>>
-+ woe if do not preach gospel
-+ Simon sorcerer
-+ godliness means to gain 1 Tim
-+ 1 John 1 what our eyes have seen
++ this we **testify** to
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
