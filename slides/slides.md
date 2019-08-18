@@ -98,14 +98,14 @@ and to hear what you hear, and did not hear it.”
 [Luke 10:17-24 (ESV) (p.5/5)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" class="outline" -->
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> id="outline" class="outline" -->
 ## Luke 10:17-24
-1. A. Authority of the Father [(v18)](# "ref")
-  + B. Given Through the Son [(v19)](# "ref")
-  + C. Redeeming His Children [(v20)](# "ref")
-2. A. Wisdom of the Father [(v21)](# "ref")
-  + B. Revealed by the Son [(v22)](# "ref")
-  + C. Blessing His Witnesses [(v23-24)](# "ref")
+1. A. **Authority** of the *Father* [(v18)](# "ref")
+  + B. **Given** Through the *Son* [(v19)](# "ref")
+  + C. **Redeeming** His *Children* [(v20)](# "ref")
+2. A. **Wisdom** of the *Father* [(v21)](# "ref")
+  + B. **Revealed** by the *Son* [(v22)](# "ref")
+  + C. **Blessing** His *Witnesses* [(v23-24)](# "ref")
 
 >>>
 
@@ -123,7 +123,14 @@ in **your** name!”
   + 3: by invoking **Christ's** name
 
 ---
-## outline: 1A
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> class="outline" -->
+## Luke 10:17-24
+1. A. **Authority of the Father** [(v18)](# "ref")
+  + B. Given Through the Son [(v19)](# "ref")
+  + C. Redeeming His Children [(v20)](# "ref")
+2. A. Wisdom of the Father [(v21)](# "ref")
+  + B. Revealed by the Son [(v22)](# "ref")
+  + C. Blessing His Witnesses [(v23-24)](# "ref")
 
 >>>
 + turn the **focus** around:
@@ -165,7 +172,14 @@ I beg you, do not **torment** me.”
 + fears **torment**
 
 ---
-## outline: 1B
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> class="outline" -->
+## Luke 10:17-24
+1. A. Authority of the Father [(v18)](# "ref")
+  + B. **Given Through the Son** [(v19)](# "ref")
+  + C. Redeeming His Children [(v20)](# "ref")
+2. A. Wisdom of the Father [(v21)](# "ref")
+  + B. Revealed by the Son [(v22)](# "ref")
+  + C. Blessing His Witnesses [(v23-24)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-bPldxRHkTzw-snake.jpg") %> -->
@@ -237,7 +251,14 @@ saying, “Give me this **power** also ..."
   + you know what's even **better**?
 
 ---
-## outline: 1C
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> class="outline" -->
+## Luke 10:17-24
+1. A. Authority of the Father [(v18)](# "ref")
+  + B. Given Through the Son [(v19)](# "ref")
+  + C. **Redeeming His Children** [(v20)](# "ref")
+2. A. Wisdom of the Father [(v21)](# "ref")
+  + B. Revealed by the Son [(v22)](# "ref")
+  + C. Blessing His Witnesses [(v23-24)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
@@ -296,7 +317,14 @@ I have a **stewardship** entrusted to me.
 + is it more important to me than having **power**?
 
 ---
-## outline: 2A
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> class="outline" -->
+## Luke 10:17-24
+1. A. Authority of the Father [(v18)](# "ref")
+  + B. Given Through the Son [(v19)](# "ref")
+  + C. Redeeming His Children [(v20)](# "ref")
+2. A. **Wisdom of the Father** [(v21)](# "ref")
+  + B. Revealed by the Son [(v22)](# "ref")
+  + C. Blessing His Witnesses [(v23-24)](# "ref")
 
 ---
 <!-- .slide: <%= bg("") %> -->
@@ -373,7 +401,14 @@ as **lambs** in the midst of **wolves**
 + reliant on Father's **providence**
 
 ---
-## outline: 2B
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> class="outline" -->
+## Luke 10:17-24
+1. A. Authority of the Father [(v18)](# "ref")
+  + B. Given Through the Son [(v19)](# "ref")
+  + C. Redeeming His Children [(v20)](# "ref")
+2. A. Wisdom of the Father [(v21)](# "ref")
+  + B. **Revealed by the Son** [(v22)](# "ref")
+  + C. Blessing His Witnesses [(v23-24)](# "ref")
 
 ---
 All things have been **handed over** to me <br>
@@ -412,7 +447,14 @@ and **Jesus Christ** whom you have sent.
 + revealed in **Christ**
 
 ---
-## outline: 2C
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> class="outline" -->
+## Luke 10:17-24
+1. A. Authority of the Father [(v18)](# "ref")
+  + B. Given Through the Son [(v19)](# "ref")
+  + C. Redeeming His Children [(v20)](# "ref")
+2. A. Wisdom of the Father [(v21)](# "ref")
+  + B. Revealed by the Son [(v22)](# "ref")
+  + C. **Blessing His Witnesses** [(v23-24)](# "ref")
 
 ---
 Then turning to the **disciples** <br>
@@ -460,5 +502,4 @@ concerning the **word of life**
 + then I must **testify** to it
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
-
+<!-- .slide: <%= bg("unsplash-BM0y9zmkA1M-eye.jpg") %> class="empty" -->
