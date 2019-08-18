@@ -4,6 +4,11 @@
 
 [Ryan Hutton](https://unsplash.com/photos/Jztmx9yqjBw "caption")
 
+>>>
++ "I've been at this **job**/ministry for 20yrs"
+  + "I've **seen** it all"
++ &rArr; **trust** me, I'm an **expert**
+
 ---
 <!-- .slide: data-background="white" -->
 # Q0
@@ -114,6 +119,11 @@ in **your** name!”
 + 1: amazement at power of **demons**
   + 2: **our** power, authority over them
   + 3: by invoking **Christ's** name
+
+---
+## outline: 1A
+
+>>>
 + turn the **focus** around:
   + **God** has all the authority
   + **Christ** grants us power over Satan
@@ -132,6 +142,9 @@ And he said to them,  <br>
 + Christ was **there** when Satan fell
   + Father's **authority** over Satan/demons
 + so **of course** Jesus' name has authority
+
+---
+## outline: 1B
 
 ---
 Behold, I have **given** you authority  <br>
@@ -176,26 +189,8 @@ and nothing shall **hurt** you.
 + *"hurt"*: wrong us, **injustice**
   + bc our Judge **justifies** us through faith
 + this is **awesome**, right?
-  + nope, there's sth even **better**:
-
----
-Nevertheless, do **not** rejoice in this,  <br>
-that the spirits are **subject** to you,  <br>
-but rejoice that your **names** <br>
-are written in **heaven**.”
-
-[Luke 10:20 (ESV)](# "ref")
-
->>>
-+ not a **power** that we **own**
-+ don't focus on **destroying** evil
-+ focus on Christ's **salvation**
-+ humbly remember we have been **forgiven**
-+ written in **book of life**
-  + city **register**: citizenship
-  + **guest list** for wedding of the Lamb
-+ do I **rejoice** that my name is written in heaven?
-  + or take it for **granted**?
+  + Jesus makes us **superheroes**?
+  + man named **Simon** thought so, in Ac8:
 
 ---
 Now when **Simon** saw that the **Spirit** was given <br>
@@ -209,20 +204,68 @@ saying, “Give me this **power** also ..."
 >>>
 + self-proclaimed **Great One**
   + wanted **power**, influence
-  + "magic hands"
+  + "**magic** touch"
++ not a **power** that we **own**
+  + **granted** by Christ
+  + out of His **grace**
++ inheriting **authority** is ok, but
+  + you know what's even **better**?
+
+---
+## outline: 1C
+
+---
+Nevertheless, do **not** rejoice in this,  <br>
+that the spirits are **subject** to you,  <br>
+but rejoice that your **names** <br>
+are written in **heaven**.”
+
+[Luke 10:20 (ESV)](# "ref")
+
+>>>
++ don't focus on **destroying** evil
++ focus on Christ's **salvation**
++ humbly remember we have been **forgiven**
++ written in **book of life**
+  + city **register**: citizenship
+  + **guest list** for wedding of the Lamb
+
+______
 + woe if do not preach gospel
 + godliness means to gain 1 Tim
+
+---
+So you also, when you have **done** <br>
+all that you were **commanded**, say, 
+
+‘We are unworthy **servants**; <br>
+we have only done what was our **duty**.’
+
+[Luke 17:10 (ESV)](# "ref")
+
+>>>
++ **why** obey God?
++ not to gain **power** / recognition for ourselves
+  + "look at how **holy** I am"
++ simply our **duty** as His **servants**
+
+---
+<!-- .slide: data-background="white" -->
+# Do I **rejoice** that my name is written in **heaven**?
+
+>>>
++ or take it for **granted**?
++ is it more important to me than having **power**?
+
+---
+## outline: 2A
 
 ---
 In that same hour he **rejoiced** <br>
 in the **Holy Spirit** and said,
 
-“I **thank** you, **Father**, Lord of heaven and earth,  <br>
-that you have hidden these things <br>
-from the wise and understanding <br>
-and revealed them to little children;
-
-yes, Father, for such was your gracious will. 
+“I **thank** you, **Father**, Lord of heaven and earth, <br>
+... such was your gracious **will**. 
 
 [Luke 10:21 (ESV)](# "ref")
 
@@ -230,19 +273,16 @@ yes, Father, for such was your gracious will.
 + **Trinity**: Son praise Father in HS
 + **rejoiced**: spring water **bubbling** up
   + **jump**, laugh, uncontainable emotion
-+ **thank**: common word, **confess**, agree
++ **thank**: shared word, **confess**, agree
   + acknowledge as **right**
++ **will**: became deemed good before You
+  + NIV: were **pleased** to do
 
 ---
-In that same hour he rejoiced <br>
-in the Holy Spirit and said,
-
-“I thank you, Father, Lord of heaven and earth,  <br>
+“I thank you, Father, Lord of heaven and earth, <br>
 that you have **hidden** these things <br>
 from the **wise** and understanding <br>
-and **revealed** them to **little children**;
-
-yes, Father, for such was your gracious **will**. 
+and **revealed** them to **little children**
 
 [Luke 10:21 (ESV)](# "ref")
 
@@ -250,8 +290,15 @@ yes, Father, for such was your gracious **will**.
 + **hidden** / **revealed**: sight
 + **wise** / **understanding**: insight, aptitude
 + **little children**: babies, dependent
-+ **will**: became deemed good before You
-  + NIV: were **pleased** to do
+
+---
+Go your way; behold, I am **sending** you out <br>
+as **lambs** in the midst of **wolves**
+
+[Luke 10:3 (ESV)](# "ref")
+
+>>>
++ as **babies**: unequipped except for grace of God
 
 ---
 Has not God made **foolish** <br>
@@ -270,13 +317,7 @@ of what we preach to save those who **believe**.
 
 
 ---
-Go your way; behold, I am **sending** you out <br>
-as **lambs** in the midst of **wolves**
-
-[Luke 10:3 (ESV)](# "ref")
-
->>>
-+ as **babies**: unequipped except for grace of God
+## outline: 2B
 
 ---
 All things have been **handed over** to me <br>
@@ -298,6 +339,9 @@ to reveal him.”
   + not **discovered** by effort / wisdom
   + but **revealed** by grace
 + *"chooses"*: **will**, agency, free-will
+
+---
+## outline: 2C
 
 ---
 Then turning to the **disciples** <br>
@@ -329,7 +373,20 @@ concerning the **word of life**
 [I John 1:1 (ESV)](# "ref")
 
 >>>
-+ this we **testify** to
++ personal, **experiential** knowledge
++ know it to be **true**
++ so we **testify** to it
+
+---
+<!-- .slide: data-background="white" -->
+# Have I **witnessed** who God is?
+
+>>>
++ my **own** eyes/ears
+  + not just hear **about** God
++ do I see this as **valuable** / precious?
++ **revealed** by Christ
++ then I must **testify** to it
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
