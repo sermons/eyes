@@ -1,7 +1,7 @@
 # What These Eyes Have Seen
 ## Luke 10:17-24
 
-[![Build status](https://api.travis-ci.org/sermons/eyes.svg)](https://travis-ci.org/github/sermons/eyes)
+[![Build status](https://api.travis-ci.com/sermons/eyes.svg)](https://travis-ci.com/github/sermons/eyes)
 [![Node deps](https://david-dm.org/sermons/eyes.svg)](https://david-dm.org/sermons/eyes)
 [![Node devDeps](https://david-dm.org/sermons/eyes/dev-status.svg)](https://david-dm.org/sermons/eyes?type=dev)
 
